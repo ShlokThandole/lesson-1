@@ -1,0 +1,13 @@
+print("my name is shlok")
+print("i am i class 8")
+print("i live in my house")
+print("i am doin python")
+print("i play minecraft")
+print("suuuu")
+print("my IQ is over 9000!!")
+print("I am the EMPEROR")
+print("i have military general")
+print("my best friend is TECHNO the DICTATOR")
+print("keywords in python are")
+import keyword
+print(keyword.kwlist)
